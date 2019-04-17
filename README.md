@@ -1,0 +1,2 @@
+# evernote_uploadNotification
+evernoteの共有ノートブックに誰かが新規にノートを作成したら通知を出すプログラムをAPIの練習がてら作ってみる．
